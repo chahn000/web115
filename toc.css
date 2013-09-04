@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+	background: darkorange;}
+h1 {
+	text-align: center;}
+.module {
+    width: 100px;
+    margin-left: 20px;
+	padding: 5px 20px;
+    background: white;
+    border: thin solid black; }
+#category {
+    width: 170px;
+    text-align: left;
+    padding: 5px 60px;
+	font-size: 150%;
+	font-weight: bold;
+    background: white;
+    border: thin solid black; }
